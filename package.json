@@ -1,0 +1,21 @@
+{
+  "name": "auth-token",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/auth-token.umd.js",
+  "module": "fesm5/auth-token.js",
+  "es2015": "fesm2015/auth-token.js",
+  "esm5": "esm5/auth-token.js",
+  "esm2015": "esm2015/auth-token.js",
+  "fesm5": "fesm5/auth-token.js",
+  "fesm2015": "fesm2015/auth-token.js",
+  "typings": "auth-token.d.ts",
+  "metadata": "auth-token.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
