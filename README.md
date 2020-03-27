@@ -4,8 +4,7 @@
 <h1 align="center"><strong>Angular library that implement oAuth2.0 out of the box</strong></h1>
 
 <br />
-
-![alt text]([https://i.imgur.com/6EnlZHi.png](https://i.imgur.com/6EnlZHi.png))
+![angular+jwt](https://i.imgur.com/6EnlZHi.png)
 
 <br />
 <div align="center"><strong>🚀 It provides an abstract service to be completed by the user.</strong></div>
