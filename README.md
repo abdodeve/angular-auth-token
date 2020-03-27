@@ -4,6 +4,7 @@
 <h1 align="center"><strong>Angular library that implement oAuth2.0 out of the box</strong></h1>
 
 <br />
+
 ![angular+jwt](https://i.imgur.com/6EnlZHi.png)
 
 <br />
